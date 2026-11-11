@@ -1,4 +1,4 @@
-first_name = str(input("Enter first name:")).strip()
+kfirst_name = str(input("Enter first name:")).strip()
 last_name = str(input("Enter last name:")).strip()
 section = str(input("Enter section:")).strip()
 fav_subject = str (input("Enter favorite subject:")).strip()
